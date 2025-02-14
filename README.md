@@ -1,0 +1,2 @@
+# html-deployment-practice
+.gitignore
